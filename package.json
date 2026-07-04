@@ -4,8 +4,9 @@
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
         "title": "绯月仙行录V1.291（简中版）",
-        "width": 1280,
-        "height": 720,
+        "width": 1920,
+        "height": 1080,
+        "fullscreen": true,
         "position": "center",
         "icon": "icon/icon.png"
     }
