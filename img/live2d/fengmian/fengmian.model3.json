@@ -1,0 +1,41 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "fengmian.moc3",
+		"Textures": [
+			"fengmian.4096/texture_00.png",
+			"fengmian.4096/texture_01.png",
+			"fengmian.4096/texture_02.png",
+			"fengmian.4096/texture_03.png",
+			"fengmian.4096/texture_04.png",
+			"fengmian.4096/texture_05.png",
+			"fengmian.4096/texture_06.png",
+			"fengmian.4096/texture_07.png",
+			"fengmian.4096/texture_08.png"
+		],
+		"Physics": "fengmian.physics3.json",
+		"DisplayInfo": "fengmian.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motion/fengmian.motion3.json",
+					"Name": "idle",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

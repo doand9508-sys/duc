@@ -1,0 +1,65 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "lh.moc3",
+		"Textures": [
+			"lh.4096/texture_00.png"
+		],
+		"Physics": "lh.physics3.json",
+		"DisplayInfo": "lh.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/lh1.motion3.json",
+					"Name": "idle",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			],
+			"Idle2": [
+				{
+					"File": "motions/lh2.motion3.json",
+					"Name": "idle2",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			],
+			"Idle3": [
+				{
+					"File": "motions/lh3.motion3.json",
+					"Name": "idle3",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			],
+			"Idle4": [
+				{
+					"File": "motions/lh4.motion3.json",
+					"Name": "idle4",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			],
+			"Idle5": [
+				{
+					"File": "motions/lh5.motion3.json",
+					"Name": "idle5",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

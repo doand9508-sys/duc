@@ -1,0 +1,53 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "eyes"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "hair1"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "hair2"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "boots"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "ﾁ｢ｻ�1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ﾁ｢ｻ�2"
+		},
+		{
+			"Id": "Part4",
+			"Name": "ﾁ｢ｻ�3"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ﾐﾂｽｨﾗ�"
+		},
+		{
+			"Id": "Part5",
+			"Name": "ﾐﾂｽｨﾗ�"
+		}
+	]
+}

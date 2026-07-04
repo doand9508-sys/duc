@@ -1,0 +1,58 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "tou fa"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "hou fa"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "eyes"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "胸"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "yeti"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "ﾁ｢ｻ�1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ﾁ｢ｻ�2"
+		},
+		{
+			"Id": "Part11",
+			"Name": "菜单立绘(1).psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ﾐﾂｽｨﾗ�"
+		},
+		{
+			"Id": "Part7",
+			"Name": "ﾁ｢ｻ�2"
+		}
+	]
+}
